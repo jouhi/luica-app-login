@@ -37,4 +37,18 @@ Even though I'm a bit flawed in my coding part, I managed to understand the fram
 
 ###  What I done 
 - Basic login page style  
-- Fixed a minor bug in session handling — pulling my hair and getting frustrated because of how amazing this framework is 
+- Fixed a minor bug in session handling — pulling my hair and getting frustrated because of how amazing this framework is
+- --------------
+
+**Before starting,**  
+it helps to break down the process into three concepts:
+
+### 🔐 Authentication  
+Verifies if the user is who they say they are. It requires the user to prove their identity with something they have, such as a username and password.
+
+### 🗂️ Session Management  
+Tracks the user's auth state across requests.
+
+### 🔓 Authorization  
+Decides what routes and data the user can access.
+
