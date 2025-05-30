@@ -1,15 +1,40 @@
+#**Final Task: Lucia Authentication Template**
+
+ Deadline: April 5, 2025
+ Mandatory for members who haven't done any FFCS task
+
+Task Overview
+Create a GitHub template repository implementing authentication with Lucia. This will enhance your understanding of authentication security.
+
+Requirements
+Session Management: Implement session handling using Lucia’s guide.
+OAuth Integration: Set up GitHub OAuth (Google OAuth optional).
+Advanced Features: Explore 2FA and WebAuthn for extra security.
+GitHub Repository:
+Name it lucia-auth-template
+Structure code well, include documentation & a detailed README
+Set it as a template repository
+
 # Lucia Auth Template
 
 This project demonstrates authentication using Lucia and GitHub OAuth.
 
-**Created by:** juhi alas Joushana S
-**Date:** Feburary 2025 
-**Updated Date:** may 2025
+**Created by:** juhi alias Joushana S  
+**Date:** February 2025  
+**Updated Date:** May 2025  
 
-## The part which kept me growing : 
-even tho im bit flaw in my coding part . i mage to get the framework or the steps tht it shd connect on from youtubers 
+---
 
-## What I added :
-- Basic login page style
-- Fixed a minor bug in session handling
--pulling my hair and getting frustrated bcz how amazing this framework 
+### Project Overview
+This is a simple authentication app using [Lucia](https://lucia-auth.com/) and GitHub OAuth for secure sign-in. Built with Next.js and Tailwind CSS.
+
+---
+
+### The Part That Kept Me Growing
+Even though I'm a bit flawed in my coding part, I managed to understand the framework flow and steps thanks to helpful YouTube tutorials. This gave me a confidence boost to work with real-world authentication.
+
+---
+
+###  What I done 
+- Basic login page style  
+- Fixed a minor bug in session handling — pulling my hair and getting frustrated because of how amazing this framework is 
