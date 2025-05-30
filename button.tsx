@@ -17,12 +17,12 @@ const buttonVariants = cva(
         ghost: 'hover:bg-gray-100 hover:text-gray-900',
         link: 'text-gray-900 underline-offset-4 hover:underline',
       },
-      size: {
-        default: 'h-10 px-4 py-2',
-        sm: 'h-9 rounded-md px-3',
-        lg: 'h-11 rounded-md px-8',
-        icon: 'h-10 w-10',
-      },
+        size: {
+  default: 'h-12 px-6 py-3 rounded-lg',    // Slightly larger and rounded
+  sm: 'h-8 px-3 rounded-sm text-sm',        // Smaller with smaller text
+  lg: 'h-14 px-10 py-4 rounded-xl text-lg', // Bigger button with larger text
+  icon: 'h-12 w-12 p-2 rounded-full',       // Circle icon button
+},
     },
     defaultVariants: {
       variant: 'default',
